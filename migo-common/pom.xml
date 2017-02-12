@@ -56,13 +56,25 @@
         </dependency>
 
 
+        <!--<dependency>-->
+        <!--<groupId>fastdfs_client</groupId>-->
+        <!--<artifactId>fastdfs_client</artifactId>-->
+        <!--<version>1.25</version>-->
+    <!--</dependency>-->
+
         <dependency>
-        <groupId>fastdfs_client</groupId>
-        <artifactId>fastdfs_client</artifactId>
-        <version>1.25</version>
+            <groupId>org.csource</groupId>
+            <artifactId>fastdfs-client-java</artifactId>
+            <version>1.25</version>
+        </dependency>
 
-    </dependency>
 
+        <!--&lt;!&ndash; https://mvnrepository.com/artifact/com.github.tobato/fastdfs-client &ndash;&gt;-->
+        <!--<dependency>-->
+        <!--<groupId>com.github.tobato</groupId>-->
+        <!--<artifactId>fastdfs-client</artifactId>-->
+        <!--<version>1.25.2-RELEASE</version>-->
+        <!--</dependency>-->
 
         <!-- httpclient -->
         <dependency>
